@@ -1,0 +1,16 @@
+{
+  "name": "chai-backend-major-project",
+  "version": "1.0.0",
+  "description": "Hitesh sir backend series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "node",
+    "backend"
+  ],
+  "author": "Tanish kr.",
+  "license": "ISC"
+}
